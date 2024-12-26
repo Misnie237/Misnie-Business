@@ -1,0 +1,14 @@
+.header__nav {
+    display: flex;
+    justify-self: space-between;
+    align-items: center;
+    margin: 20px;
+}
+.header__logo {
+    padding: 10px 20px;
+    background: linear-gradient(to
+    left, #FF8628, #F60B9A, #283CA2, #102243);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}

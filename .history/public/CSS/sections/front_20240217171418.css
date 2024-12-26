@@ -1,0 +1,6 @@
+.ninive__text{
+    font-family: var(--open-sans);
+    color: var(--secondary-color);
+    font-size: 38px;
+    line-height: 1.2;
+}
